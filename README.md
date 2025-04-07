@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qiine
-- 👀 I’m interested in ... videogame dev
-- 📫 How to reach me ... don't
+- 👀 I’m interested in ... computers, videogames shaders, linux, nvim
+- 📫 How to reach me ... I am shy
 
 <!---
 qiine/qiine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
