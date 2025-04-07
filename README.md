@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qiine
-- 👀 I’m interested in ... computers, videogames shaders, linux, nvim
+- 👀 I’m interested in ... computers, videogames, shaders, linux, nvim
 - 📫 How to reach me ... I am shy
 
 <!---
