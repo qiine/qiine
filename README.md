@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @qiine
-- 👀 I’m interested in ... computers, art, videogames, shaders, linux, nvim, and other open sauce stuffs..
+- I am a tech artist.
+- 👀 I’m interested in computers💻, art🖼, videogames🎮, shaders✨, linux🐧, nvim, and open sauce stuffs..
 - I do programming but deep down, c'est le chaos créatif.
 
 
